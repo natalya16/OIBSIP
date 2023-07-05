@@ -1,0 +1,54 @@
+body{
+    background: linear-gradient(to right, #00AAFF , #00FF6C);
+}
+
+#ac{
+    padding-left: 36px;
+    padding-right: 36px;
+}
+#equal{
+    padding-left: 54px;
+    padding-right: 54px;
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+.row{
+    padding: 2px 2px;
+    font-weight: 20px;
+}
+button{
+    padding: 20px;
+    margin: 2px;
+    background-color: rgba(135, 212, 243, 0.936);
+    /* font-weight: bold ; */
+    font-size: 25px;
+    border-radius: 10px;
+    color: black;
+    cursor: pointer;
+}
+button:hover{
+    background-color: whitesmoke;
+    color: black;
+    font-weight: bolder;
+}
+
+input{
+    padding: 30px 45px;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.sign{
+    background-color: rgb(127, 132, 135);
+    color: black;
+}
